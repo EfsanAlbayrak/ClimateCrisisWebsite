@@ -1,2 +1,2 @@
 # climatecrisis
-https://efsanalbayrak.github.io/climatecrisis/
+https://efsanalbayrak.github.io/ClimateCrisisWebsite/
